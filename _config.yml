@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Kevin's website
+subtitle: 'talk is cheap'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Kevin Zhang
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://noob128.github.io/klog/
+url: http://example.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
