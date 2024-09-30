@@ -1,9 +1,8 @@
 ---
 title: jupyter服务
 date: 2024-10-01 00:33:52
-tags: linux python jupyter
+tags: ['linux', 'jupyter']
 ---
-
 
 ### 前言
 
@@ -86,4 +85,5 @@ systemctl enable jupyter
 ```
 
 ### 结语
+
 至此，jupyter 服务已经搭建完成，可以在浏览器中输入 `http://ip:8888` 访问 jupyter notebook 了。同时，每次重启服务器后，jupyter 服务也会自动启动。
